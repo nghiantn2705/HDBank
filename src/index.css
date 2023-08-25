@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-img {
+    background-image: url("./image/thumb.png");
+}
+
+.title {
+    background: linear-gradient(to bottom, #fbed72, #fdc40b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.title-1 {
+    background: linear-gradient(to bottom, #ebc68c, #d1ad70);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
